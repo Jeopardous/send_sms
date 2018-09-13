@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">send msg</string>
+    <string name="send">Send Massage</string>
+    <string name="recive">Recive Massage</string>
+</resources>
